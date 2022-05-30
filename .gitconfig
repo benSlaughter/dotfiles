@@ -1,0 +1,2 @@
+[alias]
+	smash = push -u origin HEAD
